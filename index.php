@@ -1,3 +1,30 @@
+<?php
+$quotes = [
+    [
+        'text' => 'Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough.',
+        'author' => 'Og Mandino'
+    ],
+    [
+        'text' => 'We May Encounter Many Defeats But We Must Not Be Defeated.',
+        'author' => 'Maya Angelou'
+
+    ],
+    [
+        'text' => 'The Man Who Has Confidence In Himself Gains The Confidence Of Others.',
+        'author' => 'Hasidic Proverb'
+    ],
+    
+    [
+        'text' => 'Creativity Is Intelligence Having Fun.',
+        'author' => 'Albert Einstein'
+    ],
+];  
+
+$quote = $quotes[rand(0,count($quotes)-1)];
+$quoteText = $quote['text'];
+$quoteAuthor= $quote['author'];
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,11 +55,12 @@
 
 		<h2>Random Quote</h2>
 		<blockquote>
-			To find yourself, think for yourself. -Socrates		</blockquote>
+            <?php echo $quoteText; ?>
+            <strong>-<?php echo $quoteAuthor; ?></strong>
+        </blockquote>
 
 	</div>
 
-	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-
+ 
 </body>
 </html>
