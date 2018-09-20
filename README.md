@@ -1,8 +1,8 @@
 # Project 1
 + By: Haogang Su
-+ Production URL: <http://p1.dwa15.com>
++ Production URL: <http://p1.ceeker.me>
 
 ## Outside resources
-n/a
+Profile image: <http://www.58pic.com/tupian/liuchuanfeng.html>
 ## Notes for instructor
 n/a

@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<title>John Gosier</title>
+	<title>Simon Su</title>
 	<meta charset="utf-8">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,21 +10,20 @@
 	<link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
 	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
 
-	<link href='css/main.css' rel='stylesheet'>
+	<link href='css/su.css' rel='stylesheet'>
 
 </head>
 <body>
 
 	<div class="container">
 
-		<h1>John Gosier</h1>
+		<h1>Simon Su</h1>
 
-		<img src='images/profile.jpg' alt='profile'>
+		<img src='image/profile.jpg' alt='profile'>
 
 		<h2>About Me</h2>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in pulvinar libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in pulvinar libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+			My name is Simon Su. I am learning PHP, and I love playing Tennis and Golf. 
 		</p>
 
 		<h2>Random Quote</h2>
