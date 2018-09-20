@@ -23,7 +23,7 @@
 
 		<h2>About Me</h2>
 		<p>
-			My name is Simon Su. I am learning PHP, and I love playing Tennis and Golf. 
+			My name is Simon Su.I am learning PHP, and I love playing Tennis and Golf. 
 		</p>
 
 		<h2>Random Quote</h2>
